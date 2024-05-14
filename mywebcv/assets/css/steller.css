@@ -490,11 +490,8 @@ mark,
 
 .img-thumbnail {
   padding: 0.25rem;
-  background-color: #fff;
-  border: 1px solid #dee2e6;
-  border-radius: 0.25rem;
-  max-width: 100%;
-  height: auto;
+  height: 300px;
+  float: inline-end;
 }
 
 .figure {
@@ -11201,7 +11198,7 @@ pre {
   width: 80px;
   height: 80px;
   border-radius: 50%;
-  box-shadow: 2px 3px 10px rgba(206, 212, 218, 0.3);
+  box-shadow: 1px 3px 5px rgb(0 0 0);
   margin-bottom: 30px;
 }
 
@@ -11350,7 +11347,7 @@ pre {
 }
 
 .navbar .navbar-brand img {
-  width: 75px;
+  width: 400px;
   -webkit-filter: drop-shadow(1px 2px 25px rgba(206, 212, 218, 0.9));
           filter: drop-shadow(1px 2px 25px rgba(206, 212, 218, 0.9));
 }
