@@ -8700,7 +8700,6 @@ button.bg-dark:focus {
 }
 
 .fixed-top {
-  position: fixed;
   top: 0;
   right: 0;
   left: 0;
@@ -11451,7 +11450,6 @@ pre {
 }
 
 .header {
-  height: 94vh;
   min-height: 650px;
   border-bottom: 1px solid #dee2e6;
 }
